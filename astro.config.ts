@@ -26,6 +26,7 @@ export default defineConfig({
   site: 'https://criztec.com',
   output: 'static',
   adapter: cloudflare({
+    imageService: 'compile',
     platformProxy: {
       enabled: true,
     },
