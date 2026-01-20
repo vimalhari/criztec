@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T14:03:57.896Z
 title: '2026 Web Stack: Svelte 5.46 & Astro 6 Alpha Drive Edge-Native Evolution'
 excerpt: "Analysing the 2026 web stack shift, driven by Svelte 5.46's CSP hydration and Astro 6's Build Adapters, towards secure, AI-ready edge-native architectures."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/2026-web-stack-svelte-5-46-astro-6-i6lg.webp
+image: 'https://assets.criztec.com/2026-web-stack-svelte-5-46-astro-6-i6lg-hero.webp'
 category: Web Architecture
 tags: ['Frontend', 'Edge Computing', 'JavaScript', 'Performance']
 metadata:

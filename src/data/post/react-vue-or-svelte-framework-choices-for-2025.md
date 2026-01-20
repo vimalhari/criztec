@@ -2,7 +2,7 @@
 publishDate: 2025-12-02T23:23:41.870Z
 title: 'React, Vue, or Svelte? Framework Choices for 2025'
 excerpt: 'Navigate the landscape of React, Vue, and Svelte for 2025. Discover actionable insights and technical expertise for your next project.'
-image: 'https://image.pollinations.ai/prompt/A%20modern%20office%20setting%20with%20a%20diverse%20team%20of%20web%20developers%2C%20screens%20displaying%20React%2C%20Vue%2C%20and%20Svelte%20logos%2C%20and%20elements%20representing%20cloud%20computing%20and%20IT%20infrastructure%2C%20signifying%20a%20collaborative%20and%20high-tech%20environment.?width=1200&height=630&nologo=true&enhance=true'
+image: 'https://assets.criztec.com/react-vue-or-svelte-framework-choices-for-2025-hero.jpg'
 category: Web Development
 tags:
   - react

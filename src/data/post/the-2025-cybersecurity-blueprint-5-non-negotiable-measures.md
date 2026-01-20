@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T11:57:27.518Z
 title: 'The 2025 Cybersecurity Blueprint: 5 Non-Negotiable Measures for UK Small Business Resilience'
 excerpt: "Is your small UK business prepared for 2025's cyber threats? This essential guide details the 5 foundational cybersecurity measures you must implement now to protect your data, finances, and reputation."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/the-2025-cybersecurity-blueprint-5-non-negotiable-measures.webp
+image: 'https://assets.criztec.com/the-2025-cybersecurity-blueprint-5-non-negotiable-measures-hero.webp'
 category: Tech
 tags:
   [

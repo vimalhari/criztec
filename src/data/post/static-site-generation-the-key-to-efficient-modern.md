@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T13:38:06.824Z
 title: 'Static Site Generation: The Key to Efficient Modern Web Architecture'
 excerpt: 'Static Site Generation (SSG) represents a fundamental shift from dynamic server-side rendering, offering superior performance, security, and scalability. This article explores its mechanisms and business value.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/static-site-generation-the-key-to-efficient-modern.webp
+image: 'https://assets.criztec.com/static-site-generation-the-key-to-efficient-modern-hero.webp'
 category: Web Architecture
 tags: ['Frontend', 'Performance', 'Jamstack', 'React']
 metadata:

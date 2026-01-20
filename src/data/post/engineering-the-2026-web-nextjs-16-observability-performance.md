@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T13:51:31.341Z
 title: 'Engineering the 2026 Web: Next.js 16, Observability & Performance'
 excerpt: 'A deep dive into the performance and observability paradigms shaping modern web applications, featuring Streaming Metadata, native OpenTelemetry, and the latest Turbopack caching.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/engineering-the-2026-web-nextjs-16-observability-performance.webp
+image: 'https://assets.criztec.com/engineering-the-2026-web-nextjs-16-observability-performance-hero.webp'
 category: Web Architecture
 tags: ['Next.js', 'Performance', 'OpenTelemetry', 'React 19', 'Astro']
 metadata:

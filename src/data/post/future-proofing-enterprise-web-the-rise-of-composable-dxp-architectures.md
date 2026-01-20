@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T09:20:26.167Z
 title: 'Future-Proofing Enterprise Web: The Rise of Composable DXP Architectures'
 excerpt: 'Is your legacy DXP holding you back? Explore the rise of Composable DXP architectures, and learn how a modular, API-first approach drives enterprise agility, scalability, and ROI.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/future-proofing-enterprise-web-the-rise-of-composable-dxp-architectures.webp
+image: 'https://assets.criztec.com/future-proofing-enterprise-web-the-rise-of-composable-dxp-architectures-hero.webp'
 category: Digital Strategy
 tags:
   [

@@ -27,6 +27,7 @@
     "fix:prettier": "prettier -w ."
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/mdx": "4.3.5",
     "@astrojs/rss": "4.0.12",
     "@astrolib/analytics": "^0.6.1",

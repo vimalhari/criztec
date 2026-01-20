@@ -2,7 +2,7 @@
 publishDate: 2025-06-04T10:00:00Z
 title: 'Digital Marketing Current Scenario in London: Trends, Challenges, and Opportunities'
 excerpt: "Explore London's thriving digital marketing landscape in 2025 - from AI-driven campaigns to sustainability-focused strategies. Discover how businesses are leveraging innovative approaches to succeed in one of the world's most competitive markets."
-image: ~/assets/images/digitalmarketing/digital_marketing_2.webp
+image: 'https://assets.criztec.com/digital-marketing-current-scenario-london-hero.webp'
 category: marketing
 tags:
   - digital marketing london

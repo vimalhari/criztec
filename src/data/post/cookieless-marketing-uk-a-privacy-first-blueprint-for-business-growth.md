@@ -2,7 +2,7 @@
 publishDate: 2026-01-05T09:09:58.867255
 title: 'Cookieless Marketing UK: A Privacy-First Blueprint for Business Growth'
 excerpt: 'Discover how UK businesses can thrive in the cookieless future with privacy-first analytics, robust first-party data strategies, and UK GDPR compliance. Essential insights for resilient growth.'
-image: ~/assets/images/posts/cookieless-marketing-uk-a-privacy-first-blueprint-for-business-growth.png
+image: 'https://assets.criztec.com/cookieless-marketing-uk-a-privacy-first-blueprint-for-business-growth-hero.png'
 category: Digital Marketing & Analytics
 tags:
   - cookieless marketing UK

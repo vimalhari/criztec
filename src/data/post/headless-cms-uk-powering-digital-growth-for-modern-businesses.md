@@ -2,7 +2,7 @@
 publishDate: 2026-01-10T14:18:22.916Z
 title: 'Headless CMS UK: Powering Digital Growth for Modern Businesses'
 excerpt: 'Discover how Headless CMS empowers UK businesses with unmatched flexibility, scalability, and omnichannel content delivery. Learn to future-proof your digital presence and streamline operations for success.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/headless-cms-uk-powering-digital-growth-for-modern-businesses.png
+image: 'https://assets.criztec.com/headless-cms-uk-powering-digital-growth-for-modern-businesses-hero.png'
 category: Digital Transformation
 tags:
   [

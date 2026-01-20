@@ -2,7 +2,7 @@
 publishDate: 2025-12-04T09:04:11.477264
 title: 'Boost Your Web Apps with SvelteKit 2.0 and Rust'
 excerpt: 'Discover how SvelteKit 2.0 and Rust maximize web performance and SEO for UK businesses.'
-image: ~/assets/images/posts/boost-your-web-apps-with-sveltekit-20-and-rust.png
+image: 'https://assets.criztec.com/boost-your-web-apps-with-sveltekit-20-and-rust-hero.png'
 category: Web Development
 tags:
   - SvelteKit 2.0

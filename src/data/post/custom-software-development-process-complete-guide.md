@@ -2,7 +2,7 @@
 publishDate: 2025-12-03T13:05:23.654Z
 title: 'Custom Software Development Process: Complete Guide'
 excerpt: 'Explore the intricate world of custom software development with Criztec Technologies. This guide provides a comprehensive overview from initial concept to deployment, highlighting unique processes and real-world applications for UK businesses.'
-image: ~/assets/images/posts/custom-software-development-process-complete-guide.png
+image: 'https://assets.criztec.com/custom-software-development-process-complete-guide-hero.png'
 category: Custom Software Development
 tags:
   - Custom Software

@@ -2,7 +2,7 @@
 publishDate: 2025-07-06T10:00:00Z
 title: 'Why Progressive Web Apps (PWAs) Are the Future of Mobile Engagement in 2025'
 excerpt: 'Discover how Progressive Web Apps are revolutionizing mobile engagement by combining the best of web and native apps. Learn about key features, real-world success stories, and actionable strategies for implementation.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/progressive-web-app.webp
+image: 'https://assets.criztec.com/progressive-web-apps-future-mobile-engagement-2025-hero.webp'
 category: development
 tags:
   - PWA

@@ -2,7 +2,7 @@
 publishDate: 2025-09-21T10:00:00Z
 title: "Next.js vs Astro: The Complete Developer's Guide to Choosing the Right Framework in 2025"
 excerpt: 'A comprehensive comparison of Next.js and Astro covering performance, DX, SEO, deployment and when to choose each in 2025.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/nextjs_astro.webp
+image: 'https://assets.criztec.com/nextjs-vs-astro-2025-hero.webp'
 category: Web Development
 tags:
   - nextjs

@@ -2,7 +2,7 @@
 publishDate: 2026-01-14T09:01:54.720Z
 title: 'Astro 6, Next.js 16, and SvelteKit Lead the AI-Native Web in 2026'
 excerpt: 'Leading frameworks like Astro 6, Next.js 16, and SvelteKit have fundamentally shifted from component-centric to agent-native architectures in 2026, powered by the Model Context Protocol.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/astro-6-next-js-16-and-sveltekit-lead-vgmk.webp
+image: 'https://assets.criztec.com/astro-6-next-js-16-and-sveltekit-lead-vgmk-hero.webp'
 category: Web Architecture
 tags: ['Model Context Protocol', 'Next.js 16', 'Astro 6 Beta', 'Svelte 5.46', 'Edge-Native Architecture']
 metadata:

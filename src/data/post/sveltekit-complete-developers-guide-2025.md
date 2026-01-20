@@ -2,7 +2,7 @@
 publishDate: 2025-09-21T14:00:00Z
 title: "SvelteKit: The Complete Developer's Guide to Building Modern Web Applications in 2025"
 excerpt: "Discover SvelteKit's innovative approach to full-stack web development, from core concepts to production deployment strategies."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/sveltekit.webp
+image: 'https://assets.criztec.com/sveltekit-complete-developers-guide-2025-hero.webp'
 category: Web Development
 tags:
   - sveltekit

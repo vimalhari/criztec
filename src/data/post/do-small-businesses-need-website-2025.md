@@ -2,7 +2,7 @@
 publishDate: 2025-06-25T10:00:00Z
 title: "Do Small Businesses Really Need a Website in 2025? Yes – Here's Why"
 excerpt: Discover why every small business in 2025 needs a website. Learn about credibility, marketing benefits, and how to overcome common objections about cost and complexity.
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/smallbusinesswebsite.webp
+image: 'https://assets.criztec.com/do-small-businesses-need-website-2025-hero.webp'
 category: Digital Marketing
 tags:
   - Small Business Website

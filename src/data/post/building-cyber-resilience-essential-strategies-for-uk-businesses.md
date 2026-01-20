@@ -2,7 +2,7 @@
 publishDate: 2026-01-10T14:28:01.164Z
 title: 'Building Cyber Resilience: Essential Strategies for UK Businesses'
 excerpt: 'Protect your UK business from evolving cyber threats. Discover essential strategies for robust web security, data protection, incident response, and regulatory compliance. Safeguard your future.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/building-cyber-resilience-essential-strategies-for-uk-businesses.webp
+image: 'https://assets.criztec.com/building-cyber-resilience-essential-strategies-for-uk-businesses-hero.webp'
 category: Cybersecurity
 tags:
   [

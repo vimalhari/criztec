@@ -2,7 +2,7 @@
 publishDate: 2025-02-13T10:00:00Z #Updated to today's date and a reasonable time. Change as needed.
 title: 'Search Engine Optimisation (SEO): The Ultimate Guide for London Businesses (2024)'
 excerpt: "Confused about SEO? Criztec Technologies, a London-based SEO agency, explains everything you need to know to boost your website's ranking and drive organic traffic."
-image: ~/assets/images/digitalmarketing/digital_marketing_1.webp
+image: 'https://assets.criztec.com/search-engine-optimisation-guide-london-hero.webp'
 category: digital marketing # Changed to be more appropriate
 tags:
   - SEO

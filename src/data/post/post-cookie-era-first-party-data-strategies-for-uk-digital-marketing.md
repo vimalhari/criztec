@@ -2,7 +2,7 @@
 publishDate: 2025-12-05T16:09:48.297678
 title: 'Post-Cookie Era: First-Party Data Strategies for UK Digital Marketing'
 excerpt: "Future-proof your UK digital marketing. Discover actionable first-party data strategies, navigate privacy-first advertising, and prepare for Google's 2025 cookie deprecation. Essential insights for UK businesses."
-image: ~/assets/images/posts/post-cookie-era-first-party-data-strategies-for-uk-digital-marketing.png
+image: 'https://assets.criztec.com/post-cookie-era-first-party-data-strategies-for-uk-digital-marketing-hero.png'
 category: Digital Marketing
 tags:
   - first-party data UK

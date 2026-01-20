@@ -2,7 +2,7 @@
 publishDate: 2025-12-03T13:16:13.725Z
 title: 'Mastering Web Performance: Unleashing the Power of Core Web Vitals'
 excerpt: "Discover how optimising Core Web Vitals can propel your website's performance, enhance user experience, and boost your online presence with Criztec Technologies' cutting-edge solutions."
-image: ~/assets/images/posts/mastering-web-performance-unleashing-the-power-of-core-web-vitals.png
+image: 'https://assets.criztec.com/mastering-web-performance-unleashing-the-power-of-core-web-vitals-hero.png'
 category: Web Development
 tags:
   - Web Performance

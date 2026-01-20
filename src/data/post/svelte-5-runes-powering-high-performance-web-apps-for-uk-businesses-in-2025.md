@@ -2,7 +2,7 @@
 publishDate: 2025-12-11T12:15:13.937799
 title: 'Svelte 5 Runes: Powering High-Performance Web Apps for UK Businesses in 2025'
 excerpt: "Discover how Svelte 5 Runes revolutionises web performance for UK businesses in 2025. Unlock unparalleled speed, developer efficiency, and cost savings with Criztec's expert guidance."
-image: ~/assets/images/posts/svelte-5-runes-powering-high-performance-web-apps-for-uk-businesses-in-2025.png
+image: 'https://assets.criztec.com/svelte-5-runes-powering-high-performance-web-apps-for-uk-businesses-in-2025-hero.png'
 category: Web Development
 tags:
   - Svelte 5 UK

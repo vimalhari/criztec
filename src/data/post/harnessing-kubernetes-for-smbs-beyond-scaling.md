@@ -2,7 +2,7 @@
 publishDate: 2025-12-02T22:34:36.764Z
 title: 'Harnessing Kubernetes for SMBs: Beyond Scaling'
 excerpt: 'Explore how SMBs can leverage Kubernetes for streamlined operations and growth with actionable insights and real-world examples.'
-image: 'https://image.pollinations.ai/prompt/A%20professional%20team%20of%20diverse%20business%20and%20tech%20professionals%20working%20collaboratively%20on%20laptops%2C%20with%20Kubernetes%20icons%20and%20diagrams%20visible%20on%20a%20large%20digital%20screen%20in%20the%20background%2C%20inside%20a%20modern%2C%20tech-savvy%20office%20setting.?width=1200&height=630&nologo=true&enhance=true'
+image: 'https://assets.criztec.com/harnessing-kubernetes-for-smbs-beyond-scaling-hero.jpg'
 category: Technology
 tags:
   - kubernetes

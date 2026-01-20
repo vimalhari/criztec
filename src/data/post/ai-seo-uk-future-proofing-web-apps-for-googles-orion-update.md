@@ -2,7 +2,7 @@
 publishDate: 2025-12-04T19:11:57.379604
 title: "AI SEO UK: Future-Proofing Web Apps for Google's Orion Update"
 excerpt: "Navigate Google's Orion update! Discover modern frameworks, semantic SEO, and performance tips to optimise your UK web app for AI search and dominate the digital landscape. Essential for UK businesses."
-image: ~/assets/images/posts/ai-seo-uk-future-proofing-web-apps-for-googles-orion-update.png
+image: 'https://assets.criztec.com/ai-seo-uk-future-proofing-web-apps-for-googles-orion-update-hero.png'
 category: Digital Marketing & SEO
 tags:
   - AI SEO UK

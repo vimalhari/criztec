@@ -2,7 +2,7 @@
 publishDate: 2025-12-29T09:08:39.245022
 title: 'WCAG 3.0 & UK Web Accessibility: Boost Reach & Compliance for 2026'
 excerpt: 'Prepare your UK business for WCAG 3.0. Discover how inclusive web design and digital compliance can expand your market reach and enhance SEO, securing your future online presence.'
-image: ~/assets/images/posts/wcag-30-uk-web-accessibility-boost-reach-compliance-for-2026.png
+image: 'https://assets.criztec.com/wcag-30-uk-web-accessibility-boost-reach-compliance-for-2026-hero.png'
 category: Web Accessibility
 tags:
   - WCAG 3.0 UK

@@ -2,7 +2,7 @@
 publishDate: 2025-12-03T22:55:43.591534
 title: 'Harness AI in SvelteKit for Cutting-Edge User Experiences'
 excerpt: 'Discover how integrating AI in SvelteKit transforms UK web development with personalised, dynamic user experiences.'
-image: ~/assets/images/posts/harness-ai-in-sveltekit-for-cutting-edge-user-experiences.png
+image: 'https://assets.criztec.com/harness-ai-in-sveltekit-for-cutting-edge-user-experiences-hero.png'
 category: Web Development
 tags:
   - SvelteKit AI integration

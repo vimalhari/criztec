@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T16:23:48.710Z
 title: 'Next.js 15.2 & Astro 5.2: A New Era for Post-Response Orchestration'
 excerpt: 'Next.js 15.2 and Astro 5.2 signal a paradigm shift toward high-performance, post-response background processing and native Vite-first styling architectures.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/next-js-15-2-astro-5-2-a-2dm6.webp
+image: 'https://assets.criztec.com/next-js-15-2-astro-5-2-a-2dm6-hero.webp'
 category: Web Architecture
 tags: ['Frontend Engineering', 'Performance', 'React', 'Meta-Frameworks']
 metadata:

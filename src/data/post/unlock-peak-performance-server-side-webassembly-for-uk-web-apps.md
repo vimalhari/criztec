@@ -2,7 +2,7 @@
 publishDate: 2025-12-22T09:08:16.374195
 title: 'Unlock Peak Performance: Server-Side WebAssembly for UK Web Apps'
 excerpt: 'Boost UK web app speed, cut cloud costs, and enhance security with Server-Side WebAssembly (WASI). Discover how this game-changing tech future-proofs your backend.'
-image: ~/assets/images/posts/unlock-peak-performance-server-side-webassembly-for-uk-web-apps.png
+image: 'https://assets.criztec.com/unlock-peak-performance-server-side-webassembly-for-uk-web-apps-hero.png'
 category: Web Development
 tags:
   - Server-Side WebAssembly

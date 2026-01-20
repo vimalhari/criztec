@@ -2,7 +2,7 @@
 publishDate: 2026-01-11T18:20:24.625Z
 title: 'Rust in Web Development: Beyond WebAssembly — Building High-Performance Web Services'
 excerpt: 'Discover why Rust is moving beyond WebAssembly to become the premier choice for high-performance backend services. Learn about memory safety, top frameworks, and enterprise strategies.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/rust-in-web-development-beyond-webassembly-building-high-performance-web-services.webp
+image: 'https://assets.criztec.com/rust-in-web-development-beyond-webassembly-building-high-performance-web-services-hero.webp'
 category: Software Development
 tags:
   ['Rust', 'Backend Development', 'Web Performance', 'Microservices', 'Software Architecture', 'Criztec Technologies']

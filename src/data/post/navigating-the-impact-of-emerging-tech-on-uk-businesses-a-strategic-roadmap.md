@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T11:03:44.607Z
 title: 'Navigating the Impact of Emerging Tech on UK Businesses: A Strategic Roadmap'
 excerpt: 'Discover how AI, Cloud Computing, and Composable DXP are redefining the UK business landscape. Learn how to navigate emerging tech to drive growth and stay competitive.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/navigating-the-impact-of-emerging-tech-on-uk-businesses-a-strategic-roadmap.webp
+image: 'https://assets.criztec.com/navigating-the-impact-of-emerging-tech-on-uk-businesses-a-strategic-roadmap-hero.webp'
 category: Technology Strategy
 tags:
   ['Emerging Tech', 'UK Business', 'AI', 'Cloud Computing', 'Cybersecurity', 'Composable DXP', 'Digital Transformation']

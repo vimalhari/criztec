@@ -2,7 +2,7 @@
 publishDate: 2025-09-22T11:00:00Z
 title: 'WordPress vs. Custom Development: Which Is Right for Your Business?'
 excerpt: Struggling to choose between WordPress and custom development? Our comprehensive guide compares costs, scalability, and performance to help you make the right decision for your business.
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/wordpress-vs-custom-development.webp
+image: 'https://assets.criztec.com/wordpress-vs-custom-development-business-guide-hero.webp'
 category: Web Development
 tags:
   - WordPress vs Custom Website

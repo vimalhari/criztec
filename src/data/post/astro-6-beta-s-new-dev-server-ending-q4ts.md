@@ -2,7 +2,7 @@
 publishDate: 2026-01-17T09:01:37.072Z
 title: "Astro 6 Beta's New Dev Server: Ending the Runtime Mismatch"
 excerpt: "The Cloudflare-Astro merger brings a new paradigm: Astro 6 Beta's dev server runs your code locally on the actual production edge runtime, finally eliminating environment mismatches."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/astro-6-beta-s-new-dev-server-ending-q4ts.webp
+image: 'https://assets.criztec.com/astro-6-beta-s-new-dev-server-ending-q4ts-hero.webp'
 category: Web Architecture
 tags: ['Astro', 'Cloudflare', 'Edge Computing', 'Next.js', 'SvelteKit']
 metadata:

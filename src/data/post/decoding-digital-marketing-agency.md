@@ -2,7 +2,7 @@
 publishDate: 2025-02-22T16:07:29Z
 title: 'Decoding the Digital Marketing Agency: Beyond the Buzzwords (2024)'
 excerpt: 'Cut through the jargon and discover what truly matters when choosing a digital marketing agency in 2024. This guide goes beyond the services to explore the human element, transparency, and long-term partnership.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/what-is-digital-marketing.webp
+image: 'https://assets.criztec.com/decoding-digital-marketing-agency-hero.webp'
 category: digital marketing
 tags:
   - digital marketing

@@ -9,6 +9,7 @@ import mdx from '@astrojs/mdx';
 import partytown from '@astrojs/partytown';
 import icon from 'astro-icon';
 import compress from 'astro-compress';
+import cloudflare from '@astrojs/cloudflare';
 import type { AstroIntegration } from 'astro';
 
 import criztec from './vendor/integration';
@@ -24,13 +25,21 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 export default defineConfig({
   site: 'https://criztec.com',
   output: 'static',
+  adapter: cloudflare({
+    platformProxy: {
+      enabled: true,
+    },
+  }),
 
   integrations: [
     tailwind({
       applyBaseStyles: false,
     }),
     sitemap(),
-    mdx(),
+    mdx({
+      remarkPlugins: [readingTimeRemarkPlugin],
+      rehypePlugins: [responsiveTablesRehypePlugin, lazyImagesRehypePlugin],
+    }),
     icon({
       include: {
         tabler: ['*'],
@@ -73,7 +82,7 @@ export default defineConfig({
   ],
 
   image: {
-    domains: ['cdn.pixabay.com', 'pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev'],
+    domains: ['cdn.pixabay.com', 'pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev', 'assets.criztec.com'],
     remotePatterns: [
       {
         protocol: 'https',

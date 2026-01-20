@@ -2,7 +2,7 @@
 publishDate: 2025-09-22T10:00:00Z
 title: 'The True Cost of a Cheap Website: Why Cutting Corners Hurts Your Business'
 excerpt: Discover why cheap websites cost businesses more in the long run. Learn about hidden expenses, lost opportunities, and why investing in professional web development delivers better ROI.
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/cheap-website-costs.webp
+image: 'https://assets.criztec.com/true-cost-cheap-website-business-impact-hero.webp'
 category: Web Development
 tags:
   - Cheap Website Costs

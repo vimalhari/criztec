@@ -13,7 +13,7 @@ tags:
   - node-js
   - typescript
 category: 'Development'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/techstack.webp
+image: 'https://assets.criztec.com/best-tech-stack-2025-hero.webp'
 excerpt: 'Navigate the evolving landscape of web and mobile development with our comprehensive guide to the best tech stacks in 2025. From React 18+ to serverless backends, discover the tools that will power your next project.'
 canonical: https://example.com/best-tech-stack-2025
 ---

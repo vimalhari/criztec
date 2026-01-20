@@ -2,7 +2,7 @@
 publishDate: 2025-04-27T00:00:00Z
 title: 'How AI is Transforming London Businesses: Reducing Costs & Boosting Profits in 2025'
 excerpt: 'Discover how London and Southeast businesses are leveraging AI technologies to cut operational costs and increase profit margins in an increasingly competitive UK market.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/aiinbusiness.webp
+image: 'https://assets.criztec.com/how-ai-reduce-costs-and-boost-profits-for-business-hero.webp'
 category: Business Technology
 tags:
   - artificial intelligence

@@ -2,7 +2,7 @@
 publishDate: 2025-12-05T07:04:23.902750
 title: 'Mastering UK Data Privacy: Web Dev & Marketing in the Post-Cookie, AI Era'
 excerpt: 'Future-proof your UK business. Discover actionable strategies for secure web development and privacy-first marketing in the post-cookie, AI era, ensuring GDPR UK compliance.'
-image: ~/assets/images/posts/mastering-uk-data-privacy-web-dev-marketing-in-the-post-cookie-ai-era.png
+image: 'https://assets.criztec.com/mastering-uk-data-privacy-web-dev-marketing-in-the-post-cookie-ai-era-hero.png'
 category: Data Privacy & Compliance
 tags:
   - UK data privacy

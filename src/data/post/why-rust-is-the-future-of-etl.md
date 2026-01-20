@@ -2,7 +2,7 @@
 publishDate: 2025-06-25T10:00:00Z
 title: 'Why Rust Is the Future of ETL: Performance, Safety & Modern Data Pipelines'
 excerpt: 'Discover why Rust is revolutionizing ETL workflows with unmatched performance, memory safety, and modern data processing capabilities. Learn how Rust-based tools outperform Python and Java in 2025.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/rust-vs-python.webp
+image: 'https://assets.criztec.com/why-rust-is-the-future-of-etl-hero.webp'
 category: technology
 tags:
   - rust

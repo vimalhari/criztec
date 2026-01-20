@@ -2,7 +2,7 @@
 publishDate: 2026-01-13T18:03:56.785Z
 title: 'Beyond Hydration: Mastering Next.js 16 Caching and Astro 6.0 AI'
 excerpt: "Explore how Next.js 16's granular Cache Components and Astro 6.0's AI-native ecosystem are redefining server-side rendering and developer experience in 2026."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/beyond-hydration-mastering-next-js-16-caching-and-kqvu.webp
+image: 'https://assets.criztec.com/beyond-hydration-mastering-next-js-16-caching-and-kqvu-hero.webp'
 category: Web Architecture
 tags: ['Next.js', 'Astro', 'Performance', 'Edge Computing', 'AI']
 metadata:

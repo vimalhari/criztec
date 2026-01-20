@@ -2,7 +2,7 @@
 publishDate: 2026-01-13T09:03:13.842Z
 title: '2026 Wasm Benchmarks: Next.js vs Astro vs SvelteKit'
 excerpt: 'Technical analysis of January 2026 framework releases: Next.js 16.1, Astro 5.16, and SvelteKit 2.49 leverage WebAssembly and compiler optimisations to achieve significant performance gains in boot times, LCP, and INP metrics.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/2026-wasm-benchmarks-next-js-vs-astro-vs-kybc.webp
+image: 'https://assets.criztec.com/2026-wasm-benchmarks-next-js-vs-astro-vs-kybc-hero.webp'
 category: Web Architecture
 tags: ['WebAssembly', 'React Compiler', 'Performance', 'Edge Computing', 'Frontend Frameworks']
 metadata:

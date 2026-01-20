@@ -2,7 +2,7 @@
 publishDate: 2025-12-02T22:35:25.287Z
 title: 'Unveiling SvelteKit: The Future of Web Development'
 excerpt: 'Discover why SvelteKit can revolutionize your next project with its unparalleled speed, flexibility, and SEO benefits.'
-image: "https://image.pollinations.ai/prompt/A%20modern%2C%20professional%20workspace%20with%20a%20large%20monitor%20displaying%20SvelteKit's%20logo%2C%20surrounded%20by%20code%20snippets%20and%20performance%20graphs.%20The%20setting%20should%20be%20a%20sleek%20office%20with%20natural%20light%20highlighting%20tech%20gadgets%20like%20a%20keyboard%20and%20mouse%2C%20emphasizing%20a%20focus%20on%20cutting-edge%20technology%20and%20web%20development.?width=1200&height=630&nologo=true&enhance=true"
+image: 'https://assets.criztec.com/unveiling-sveltekit-the-future-of-web-development-hero.jpg'
 category: Web Development
 tags:
   - sveltekit

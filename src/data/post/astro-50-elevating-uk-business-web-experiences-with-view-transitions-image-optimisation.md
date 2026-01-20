@@ -2,7 +2,7 @@
 publishDate: 2026-01-10T16:03:52.004Z
 title: 'Astro 5.0: Elevating UK Business Web Experiences with View Transitions & Image Optimisation'
 excerpt: "Astro 5.0 is here, bringing the View Transitions API and superior image optimisation to the forefront of web development. Discover how these features can boost your UK business's SEO and UX."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/astro-50-elevating-uk-business-web-experiences-with-view-transitions-image-optimisation.webp
+image: 'https://assets.criztec.com/astro-50-elevating-uk-business-web-experiences-with-view-transitions-image-optimisation-hero.webp'
 category: Web Development
 tags:
   [

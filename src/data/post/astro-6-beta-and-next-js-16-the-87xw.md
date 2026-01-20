@@ -2,7 +2,7 @@
 publishDate: 2026-01-14T08:17:28.626Z
 title: 'Astro 6 Beta and Next.js 16: The Unified Runtime and Caching Shift'
 excerpt: 'An architectural deep dive into how Astro 6 Beta and Next.js 16, with their focus on edge runtime parity and component-level caching, are redefining modern web development.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/astro-6-beta-and-next-js-16-the-87xw.webp
+image: 'https://assets.criztec.com/astro-6-beta-and-next-js-16-the-87xw-hero.webp'
 category: Web Architecture
 tags: ['Astro', 'Next.js', 'Frontend', 'Performance']
 metadata:

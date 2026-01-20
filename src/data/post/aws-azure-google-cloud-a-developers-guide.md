@@ -2,7 +2,7 @@
 publishDate: 2025-12-02T22:34:51.070Z
 title: "AWS, Azure, Google Cloud: A Developer's Guide"
 excerpt: 'Dive deep into AWS, Azure, and Google Cloud. Discover actionable insights and real-world examples to make informed choices for your projects.'
-image: 'https://image.pollinations.ai/prompt/A%20professional%20and%20sleek%20header%20image%20showing%20a%20split-screen%20comparison%20of%20AWS%2C%20Azure%2C%20and%20Google%20Cloud%20dashboards%2C%20reflecting%20modern%20tech%20aesthetics.?width=1200&height=630&nologo=true&enhance=true'
+image: 'https://assets.criztec.com/aws-azure-google-cloud-a-developers-guide-hero.jpg'
 category: Technology
 tags:
   - AWS

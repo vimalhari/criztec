@@ -2,7 +2,7 @@
 publishDate: 2025-12-03T13:12:06.692Z
 title: 'Optimising IT Infrastructure Management for Growing Businesses'
 excerpt: 'Discover how effective IT infrastructure management can empower small to medium-sized businesses in the UK to scale efficiently and competitively.'
-image: ~/assets/images/posts/optimising-it-infrastructure-management-for-growing-businesses.png
+image: 'https://assets.criztec.com/optimising-it-infrastructure-management-for-growing-businesses-hero.png'
 category: IT Infrastructure Management
 tags:
   - IT Infrastructure

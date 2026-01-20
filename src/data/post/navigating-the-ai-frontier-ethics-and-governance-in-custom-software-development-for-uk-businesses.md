@@ -2,7 +2,7 @@
 publishDate: 2026-01-11T17:22:20.742Z
 title: 'Navigating the AI Frontier: Ethics and Governance in Custom Software Development for UK Businesses'
 excerpt: 'As AI integration becomes standard in the UK, businesses face complex ethical and regulatory hurdles. Learn how to navigate AI governance, mitigate bias, and build trustworthy custom software that complies with UK standards.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/navigating-the-ai-frontier-ethics-and-governance-in-custom-software-development-for-uk-businesses.webp
+image: 'https://assets.criztec.com/navigating-the-ai-frontier-ethics-and-governance-in-custom-software-development-for-uk-businesses-hero.webp'
 category: AI & Emerging Tech
 tags:
   [

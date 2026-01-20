@@ -2,7 +2,7 @@
 publishDate: 2025-01-21T16:07:29Z
 title: 'Essential Digital Marketing Strategies for Small Businesses on a Budget'
 excerpt: Discover affordable and effective digital marketing strategies that small businesses in London, the UK, and Europe can implement to grow their online presence and attract more customers.
-image: https://pub-a13a1f7c3bc94b6fb1d24b7eef8699a6.r2.dev/smallbusiness.webp
+image: 'https://assets.criztec.com/essential-digital-marketing-strategies-hero.webp'
 category: Digital Marketing
 tags:
   - Small Business Marketing

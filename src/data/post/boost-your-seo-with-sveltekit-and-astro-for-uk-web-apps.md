@@ -2,7 +2,7 @@
 publishDate: 2025-12-03T22:43:31.864291
 title: 'Boost Your SEO with SvelteKit and Astro for UK Web Apps'
 excerpt: 'Discover how SvelteKit and Astro enhance SEO for UK businesses with actionable insights and real-world examples.'
-image: ~/assets/images/posts/boost-your-seo-with-sveltekit-and-astro-for-uk-web-apps.png
+image: 'https://assets.criztec.com/boost-your-seo-with-sveltekit-and-astro-for-uk-web-apps-hero.png'
 category: Web Development
 tags:
   - SvelteKit

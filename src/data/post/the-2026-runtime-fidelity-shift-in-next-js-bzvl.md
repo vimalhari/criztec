@@ -2,7 +2,7 @@
 publishDate: 2026-01-15T09:04:05.314Z
 title: 'The 2026 Runtime Fidelity Shift in Next.js 16 & Astro 6'
 excerpt: "The 2026 'Runtime Fidelity' shift sees Astro 6 and Next.js 16 unifying dev and production engines to eradicate 'works on my machine' bugs."
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/the-2026-runtime-fidelity-shift-in-next-js-bzvl.webp
+image: 'https://assets.criztec.com/the-2026-runtime-fidelity-shift-in-next-js-bzvl-hero.webp'
 category: Web Architecture
 tags: ['Frontend', 'Performance', 'JavaScript']
 metadata:

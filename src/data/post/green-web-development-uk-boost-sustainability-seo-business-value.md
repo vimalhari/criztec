@@ -2,7 +2,7 @@
 publishDate: 2025-12-08T09:08:25.172319
 title: 'Green Web Development UK: Boost Sustainability, SEO & Business Value'
 excerpt: "Unlock UK business sustainability and SEO with green web development. Learn practical strategies to reduce your website's carbon footprint, comply with ESG, and boost brand reputation."
-image: ~/assets/images/posts/green-web-development-uk-boost-sustainability-seo-business-value.png
+image: 'https://assets.criztec.com/green-web-development-uk-boost-sustainability-seo-business-value-hero.png'
 category: Sustainability
 tags:
   - Green web development UK

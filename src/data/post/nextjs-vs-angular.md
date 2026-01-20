@@ -2,7 +2,7 @@
 title: 'Next.js vs Angular: Complete Framework Comparison Guide 2025'
 description: 'Comprehensive comparison of Next.js vs Angular frameworks covering performance, SEO, development experience, and use cases to help you choose the right framework.'
 publishDate: 2025-07-06
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/Next.js-vs-Angular.js_-Choose-the-Right-Framework.webp
+image: 'https://assets.criztec.com/nextjs-vs-angular-hero.webp'
 tags: ['nextjs', 'angular', 'framework-comparison', 'react', 'web-development']
 draft: false
 ---

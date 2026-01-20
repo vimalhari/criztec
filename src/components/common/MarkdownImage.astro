@@ -1,0 +1,35 @@
+---
+import { getImage } from 'astro:assets';
+
+interface Props {
+  src: string;
+  alt: string;
+  title?: string;
+}
+
+const { src, alt, title } = Astro.props;
+
+let image;
+try {
+  image = await getImage({ src, inferSize: true, format: 'webp' });
+} catch (e) {
+  // Fallback if optimization fails (e.g. invalid URL)
+  console.error(`Failed to optimize image: ${src}`, e);
+}
+---
+
+{
+  image ? (
+    <img
+      src={image.src}
+      alt={alt}
+      title={title}
+      {...image.attributes}
+      loading="lazy"
+      decoding="async"
+      class="max-w-full h-auto rounded-md shadow-lg my-8"
+    />
+  ) : (
+    <img src={src} alt={alt} title={title} loading="lazy" decoding="async" />
+  )
+}

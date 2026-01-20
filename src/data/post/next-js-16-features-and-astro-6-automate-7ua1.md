@@ -2,7 +2,7 @@
 publishDate: 2026-01-12T20:13:34.447Z
 title: 'Next.js 16 Features and Astro 6 Automate Web Performance'
 excerpt: 'The 2026 stack eliminates manual memoisation and ISR tuning. Next.js 16 Cache Components, Astro 6 Server Islands, and the stable React Compiler herald a new era of compiler-driven optimisation.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/next-js-16-features-and-astro-6-automate-7ua1.webp
+image: 'https://assets.criztec.com/next-js-16-features-and-astro-6-automate-7ua1-hero.webp'
 category: Web Architecture
 tags: ['Next.js', 'Astro', 'React', 'Performance', 'Web Development']
 metadata:

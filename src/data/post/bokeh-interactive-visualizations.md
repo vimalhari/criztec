@@ -2,7 +2,7 @@
 publishDate: 2025-09-14T12:00:00Z
 title: 'Bokeh: Creating Stunning Interactive Visualizations for Modern Data Science'
 excerpt: 'Discover Bokeh, the powerful Python library for creating interactive, web-ready visualizations. Learn how to build dynamic dashboards, real-time plots, and engaging data stories that captivate your audience.'
-image: https://pub-693f7baf8984450ca2a6a42eec72bd69.r2.dev/bokeh.webp
+image: 'https://assets.criztec.com/bokeh-interactive-visualizations-hero.webp'
 category: technology
 tags:
   - bokeh
