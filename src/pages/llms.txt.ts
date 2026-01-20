@@ -8,7 +8,8 @@ export const GET = async () => {
   const siteUrl = 'https://criztec.com';
 
   let content = '# Criztec Technologies\n\n';
-  content += 'Professional web & software development experts specializing in Astro, Ruby on Rails, Django, and business automation.\n\n';
+  content +=
+    'Professional web & software development experts specializing in Astro, Ruby on Rails, Django, and business automation.\n\n';
 
   content += '## Main Pages\n';
   content += `- [Home](${siteUrl})\n`;

@@ -1,0 +1,4 @@
+
+> @criztec/website@1.0.0 check:eslint C:\Users\Vimal Hari\Projects\websites\criztec
+> eslint .
+
