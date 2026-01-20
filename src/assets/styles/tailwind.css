@@ -2,6 +2,61 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Fluid Typography System - Modern 2026 Standards */
+@layer base {
+  :root {
+    /* Fluid font sizes using clamp(min, preferred, max) */
+    /* Scale: 1.25 (Major Third) for better readability */
+
+    /* Small text: 14px -> 14px (fixed for labels, captions) */
+    --font-size-xs: 0.875rem;
+
+    /* Small text: 14px -> 15px */
+    --font-size-sm: clamp(0.875rem, 0.85rem + 0.125vw, 0.9375rem);
+
+    /* Base: 16px -> 16px (standard body text) */
+    --font-size-base: 1rem;
+
+    /* Large: 17px -> 18px */
+    --font-size-lg: clamp(1.0625rem, 1rem + 0.3125vw, 1.125rem);
+
+    /* XL: 18px -> 20px */
+    --font-size-xl: clamp(1.125rem, 1.05rem + 0.375vw, 1.25rem);
+
+    /* 2XL: 20px -> 24px (small headings) */
+    --font-size-2xl: clamp(1.25rem, 1.1rem + 0.75vw, 1.5rem);
+
+    /* 3XL: 24px -> 30px (medium headings) */
+    --font-size-3xl: clamp(1.5rem, 1.3rem + 1vw, 1.875rem);
+
+    /* 4XL: 28px -> 36px (large headings) */
+    --font-size-4xl: clamp(1.75rem, 1.5rem + 1.25vw, 2.25rem);
+
+    /* 5XL: 32px -> 42px (hero headings) */
+    --font-size-5xl: clamp(2rem, 1.7rem + 1.5vw, 2.625rem);
+
+    /* 6XL: 36px -> 48px (display headings) */
+    --font-size-6xl: clamp(2.25rem, 1.9rem + 1.75vw, 3rem);
+
+    /* Optimized line heights for readability */
+    --line-height-tight: 1.25;
+    --line-height-snug: 1.375;
+    --line-height-normal: 1.5;
+    --line-height-relaxed: 1.625;
+
+    /* Tighter spacing scale (reduced by ~25%) */
+    --space-xs: 0.25rem; /* 4px */
+    --space-sm: 0.5rem; /* 8px */
+    --space-md: 0.75rem; /* 12px */
+    --space-lg: 1rem; /* 16px */
+    --space-xl: 1.5rem; /* 24px */
+    --space-2xl: 2rem; /* 32px */
+    --space-3xl: 2.5rem; /* 40px */
+    --space-4xl: 3rem; /* 48px */
+    --space-5xl: 4rem; /* 64px */
+  }
+}
+
 @layer utilities {
   .bg-page {
     background-color: var(--aw-color-bg-page);
