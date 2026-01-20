@@ -5,6 +5,7 @@ import {
   getImagesOptimized,
   astroAsseetsOptimizer,
   unpicOptimizer,
+  remoteImageOptimizer,
   isUnpicCompatible,
   type ImageProps,
 } from '~/utils/images-optimization';
@@ -41,12 +42,15 @@ const _image = await findImage(props.src);
 
 let image: ImageType | undefined = undefined;
 
-if (
-  typeof _image === 'string' &&
-  (_image.startsWith('http://') || _image.startsWith('https://')) &&
-  isUnpicCompatible(_image)
-) {
-  image = await getImagesOptimized(_image, props, unpicOptimizer);
+if (typeof _image === 'string' && (_image.startsWith('http://') || _image.startsWith('https://'))) {
+  if (isUnpicCompatible(_image)) {
+    // Use unpic for supported CDNs (Cloudinary, Imgix, etc.)
+    image = await getImagesOptimized(_image, props, unpicOptimizer);
+  } else {
+    // Use passthrough optimizer for remote images (e.g., Cloudflare R2)
+    // This avoids the inferSize requirement by just using provided dimensions
+    image = await getImagesOptimized(_image, props, remoteImageOptimizer);
+  }
 } else if (_image) {
   image = await getImagesOptimized(_image, props, astroAsseetsOptimizer);
 }

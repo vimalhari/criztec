@@ -225,7 +225,7 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
 
   return Promise.all(
     breakpoints.map(async (w: number) => {
-      const result = await getImage({ src: image, width: w, inferSize: true, ...(format ? { format: format } : {}) });
+      const result = await getImage({ src: image, width: w, ...(format ? { format: format } : {}) });
 
       return {
         src: result?.src,
@@ -238,6 +238,28 @@ export const astroAsseetsOptimizer: ImagesOptimizer = async (
 
 export const isUnpicCompatible = (image: string) => {
   return typeof parseUrl(image) !== 'undefined';
+};
+
+/**
+ * Optimizer for remote images that aren't supported by unpic (e.g., Cloudflare R2).
+ * This simply passes through the original URL without trying to transform it,
+ * avoiding the need for inferSize while still respecting the provided dimensions.
+ */
+export const remoteImageOptimizer: ImagesOptimizer = async (image, breakpoints, width, height) => {
+  if (!image || typeof image !== 'string') {
+    return [];
+  }
+
+  // For remote images without CDN support, just return the original URL
+  // with the breakpoints for srcset generation (browser will pick the right size)
+  return breakpoints.map((w: number) => {
+    const _height = width && height ? computeHeight(w, width / height) : height;
+    return {
+      src: image, // Use original URL - no transformation
+      width: w,
+      height: _height,
+    };
+  });
 };
 
 /* ** */

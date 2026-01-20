@@ -11,12 +11,15 @@ To give your AI tools (Cursor, Claude Code, Copilot) the best knowledge of Astro
 - **Type**: Streamable HTTP
 
 ### Cursor Setup
+
 1. Open Cursor Settings -> Models -> MCP.
 2. Click **+ Add New MCP Server**.
 3. Name: `Astro Docs`, Type: `http`, URL: `https://mcp.docs.astro.build/mcp`.
 
 ### Claude Code Setup
+
 Run the following command in your terminal:
+
 ```bash
 claude mcp add --transport http astro-docs https://mcp.docs.astro.build/mcp
 ```

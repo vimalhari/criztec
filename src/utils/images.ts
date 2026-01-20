@@ -1,4 +1,4 @@
-import { isUnpicCompatible, unpicOptimizer, astroAsseetsOptimizer } from './images-optimization';
+import { isUnpicCompatible, unpicOptimizer, astroAsseetsOptimizer, remoteImageOptimizer } from './images-optimization';
 import type { ImageMetadata } from 'astro';
 import type { OpenGraph } from '@astrolib/seo';
 
@@ -75,10 +75,16 @@ export const adaptOpenGraphImages = async (
 
         if (
           typeof resolvedImage === 'string' &&
-          (resolvedImage.startsWith('http://') || resolvedImage.startsWith('https://')) &&
-          isUnpicCompatible(resolvedImage)
+          (resolvedImage.startsWith('http://') || resolvedImage.startsWith('https://'))
         ) {
-          _image = (await unpicOptimizer(resolvedImage, [defaultWidth], defaultWidth, defaultHeight, 'jpg'))[0];
+          if (isUnpicCompatible(resolvedImage)) {
+            // Use unpic for supported CDNs (Cloudinary, Imgix, etc.)
+            _image = (await unpicOptimizer(resolvedImage, [defaultWidth], defaultWidth, defaultHeight, 'jpg'))[0];
+          } else {
+            // Use passthrough for remote images not supported by unpic (e.g., Cloudflare R2)
+            // This avoids the inferSize requirement
+            _image = (await remoteImageOptimizer(resolvedImage, [defaultWidth], defaultWidth, defaultHeight))[0];
+          }
         } else if (resolvedImage) {
           const dimensions =
             typeof resolvedImage !== 'string' && resolvedImage?.width <= defaultWidth

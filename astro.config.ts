@@ -87,6 +87,10 @@ export default defineConfig({
     remotePatterns: [
       {
         protocol: 'https',
+        hostname: 'assets.criztec.com',
+      },
+      {
+        protocol: 'https',
         hostname: '**.r2.dev',
       },
     ],
