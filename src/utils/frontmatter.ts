@@ -1,10 +1,10 @@
 import getReadingTime from 'reading-time';
 import { toString } from 'mdast-util-to-string';
 import { visit } from 'unist-util-visit';
-import type { RehypePlugin, RemarkPlugin } from '@astrojs/markdown-remark';
 
-export const readingTimeRemarkPlugin: RemarkPlugin = () => {
-  return function (tree, file) {
+export const readingTimeRemarkPlugin = () => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  return function (tree: any, file: any) {
     const textOnPage = toString(tree);
     const readingTime = Math.ceil(getReadingTime(textOnPage).minutes);
 
@@ -14,8 +14,9 @@ export const readingTimeRemarkPlugin: RemarkPlugin = () => {
   };
 };
 
-export const responsiveTablesRehypePlugin: RehypePlugin = () => {
-  return function (tree) {
+export const responsiveTablesRehypePlugin = () => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  return function (tree: any) {
     if (!tree.children) return;
 
     for (let i = 0; i < tree.children.length; i++) {
@@ -37,8 +38,9 @@ export const responsiveTablesRehypePlugin: RehypePlugin = () => {
   };
 };
 
-export const lazyImagesRehypePlugin: RehypePlugin = () => {
-  return function (tree) {
+export const lazyImagesRehypePlugin = () => {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  return function (tree: any) {
     if (!tree.children) return;
 
     visit(tree, 'element', function (node) {
