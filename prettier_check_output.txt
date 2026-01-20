@@ -1,6 +1,0 @@
-
-> @criztec/website@1.0.0 check:prettier C:\Users\Vimal Hari\Projects\websites\criztec
-> prettier --check .
-
-Checking formatting...
-All matched files use Prettier code style!
