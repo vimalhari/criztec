@@ -1,0 +1,24 @@
+# Project Rules (for AI Agents)
+
+This project is a high-performance, modern web application built with **Astro 5** and **Tailwind CSS**, deployed on **Cloudflare Workers**.
+
+## Tech Stack
+- **Framework**: Astro 5.16+
+- **Runner**: Cloudflare Pages (`@astrojs/cloudflare`)
+- **Styling**: Tailwind CSS
+- **Content**: MDX/Markdown via Content Collections
+- **Infrastructure**: Cloudflare R2, KV
+
+## Development Guidelines
+- Always use **pnpm** for package management.
+- Prefer **Astro Components** over UI frameworks unless interactive state is complex.
+- Use the **Astro Docs MCP Server** (`https://mcp.docs.astro.build/mcp`) for up-to-date framework knowledge.
+- Follow the custom integration patterns in `vendor/integration`.
+- Ensure all images are optimized and served via R2 if applicable.
+
+## File Structure
+- `src/components`: UI components.
+- `src/layouts`: Page layouts.
+- `src/pages`: Routing.
+- `src/content`: Content collections.
+- `vendor/`: Custom project-specific integrations and utilities.

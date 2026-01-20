@@ -1,0 +1,20 @@
+# Criztec Technologies
+
+Criztec Technologies is a professional software and web development agency specializing in Astro, Ruby on Rails, Django, and business automation.
+
+## Core Services
+- Modern Web Development (Astro, Next.js)
+- Robust Backend Solutions (Rails, Django)
+- AI Integration & Agentic Workflows
+- Cloudflare Ecosystem Optimization
+
+## Technical Stack
+- Astro 5
+- Tailwind CSS
+- Cloudflare Workers / Workers
+- n8n Automation
+
+## Useful Links
+- [Website](https://criztec.com)
+- [Blog](https://criztec.com/blog)
+- [Contact](https://criztec.com/contact)

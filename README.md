@@ -82,22 +82,33 @@ pnpm remove <package-name>
 └── tailwind.config.js
 ```
 
+## 🤖 AI-Native Development
+
+This project is optimized for AI-native development. We leverage the **Model Context Protocol (MCP)** and specific context files to improve the experience for AI agents and developers.
+
+- **[AI Documentation](docs/AI.md)**: Guide on configuring MCP servers and using AI best practices.
+- **[GEMINI.md](GEMINI.md)**: Rules and project context for Gemini-powered agents.
+- **[.clinerules](.clinerules)**: General context for AI tools like Claude and Cursor.
+- **[llms.txt](public/llms.txt)**: Machine-readable summary for AI discovery.
+
 ## 🚀 Deployment
 
-This project is configured for **Netlify** deployment:
+This project is configured for **Cloudflare Workers**:
 
 - **Build Command:** `pnpm run build`
-- **Publish Directory:** `dist`
-- **Node Version:** 18+ (configured in `package.json` engines)
+- **Output Directory:** `dist`
+- **Node Version:** 18+
+- **Platform:** `@astrojs/cloudflare`
 
-The `netlify.toml` file contains the deployment configuration. Simply connect your repository to Netlify for automatic deployments.
+Configure your Cloudflare Workers setup using `wrangler.jsonc`.
 
 ## 📚 Learn More
 
 - [Astro Documentation](https://docs.astro.build)
+- [Astro Build with AI Guide](https://docs.astro.build/en/guides/build-with-ai/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [pnpm Documentation](https://pnpm.io/)
 
 ## 🤝 Contributing
 
-When contributing to this project, please use pnpm for all package management tasks to maintain consistency.
+When contributing to this project, please use pnpm for all package management tasks and refer to the [AI Documentation](docs/AI.md) if using assistant tools.
