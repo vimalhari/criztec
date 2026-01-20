@@ -10,4 +10,15 @@
   "observability": {
     "enabled": true,
   },
+  "routes": [
+    {
+      "pattern": "criztec.com",
+      "custom_domain": true,
+    },
+    {
+      "pattern": "www.criztec.com",
+      "custom_domain": true,
+    },
+  ],
 }
+
