@@ -4,11 +4,20 @@ import type { Post } from '~/types';
 
 export interface Props {
   posts: Array<Post>;
+  columns?: number;
 }
 
-const { posts } = Astro.props;
+const { posts, columns = 3 } = Astro.props;
 ---
 
-<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 auto-rows-fr">
+<div
+  class:list={[
+    'grid gap-6 sm:grid-cols-2 auto-rows-fr',
+    {
+      'lg:grid-cols-3 xl:grid-cols-3': columns === 3,
+      'lg:grid-cols-4 xl:grid-cols-4': columns === 4,
+    },
+  ]}
+>
   {posts.map((post) => <Item post={post} />)}
 </div>
