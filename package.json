@@ -76,7 +76,7 @@
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.53.1",
     "unist-util-visit": "^5.0.0",
-    "wrangler": "^4.59.2"
+    "wrangler": "^4.59.3"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,astro,md,mdx}": [
