@@ -20,7 +20,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
 <article
   class="h-full flex flex-col bg-white dark:bg-slate-800 rounded-xl shadow-sm hover:shadow-md transition-all duration-200 overflow-hidden intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade group"
 >
-  <div class="relative h-44 bg-gray-400 dark:bg-slate-700 overflow-hidden">
+  <div class="relative aspect-square bg-gray-400 dark:bg-slate-700 overflow-hidden">
     {
       image &&
         (link ? (
@@ -32,7 +32,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
               width={400}
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
               alt={post.title}
-              aspectRatio="16:9"
+              aspectRatio="1:1"
               layout="cover"
               loading="lazy"
               decoding="async"
