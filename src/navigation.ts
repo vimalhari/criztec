@@ -183,6 +183,22 @@ export const footerData = {
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   ],
   footNote: `© 2025 Crizaze Business Services Ltd. All rights reserved. <br>Registered in England & Wales. Company No. <a class="text-blue-600 underline dark:text-muted" href="https://find-and-update.company-information.service.gov.uk/company/15494238" target="_blank" rel="noopener noreferrer">15494238</a>. <br class="block sm:hidden"><span class="hidden sm:inline">|</span> Professional web development, digital marketing & IT services.`,
+  googleReview: {
+    href: 'https://share.google/4DfExVCVOVpUHDR94',
+    text: '5.0',
+    subText: 'Based on 50+ reviews',
+  },
+  trustBadges: [
+    { ariaLabel: 'Astro', icon: 'logos:astro', href: 'https://astro.build' },
+    { ariaLabel: 'AWS', icon: 'logos:aws', href: 'https://aws.amazon.com' },
+    { ariaLabel: 'Digital Ocean', icon: 'logos:digital-ocean', href: 'https://www.digitalocean.com' },
+    { ariaLabel: 'n8n', icon: 'simple-icons:n8n', href: 'https://n8n.io' },
+    { ariaLabel: 'Stripe', icon: 'logos:stripe', href: 'https://stripe.com' },
+    { ariaLabel: 'Ruby on Rails', icon: 'logos:rails', href: 'https://rubyonrails.org' },
+    { ariaLabel: 'Django', icon: 'logos:django-icon', href: 'https://www.djangoproject.com' },
+    { ariaLabel: 'Hetzner', icon: 'simple-icons:hetzner', href: 'https://www.hetzner.com' },
+    { ariaLabel: 'Microsoft 365', icon: 'logos:microsoft-icon', href: 'https://www.microsoft.com/microsoft-365' },
+  ],
 };
 
 // class="text-blue-600 underline dark:text-muted" href="https://criztec.com/"

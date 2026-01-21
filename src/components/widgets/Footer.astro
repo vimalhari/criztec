@@ -21,9 +21,19 @@ export interface Props {
   socialLinks?: Array<Link>;
   footNote?: string;
   theme?: string;
+  trustBadges?: Array<Link>;
+  googleReview?: { href?: string; text?: string; subText?: string };
 }
 
-const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme = 'light' } = Astro.props;
+const {
+  socialLinks = [],
+  secondaryLinks = [],
+  links = [],
+  footNote = '',
+  theme = 'light',
+  trustBadges = [],
+  googleReview,
+} = Astro.props;
 ---
 
 <footer
@@ -100,6 +110,37 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
               </div>
             ) : null
           }
+
+          {/* Google Review Badge */}
+          {
+            googleReview && (
+              <div class="pt-4">
+                <a
+                  href={googleReview.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-white/5 border border-white/10 hover:border-primary/50 transition-all group"
+                >
+                  <div class="flex items-center justify-center w-8 h-8 rounded-full bg-white text-white">
+                    <Icon name="logos:google-icon" class="w-5 h-5" />
+                  </div>
+                  <div class="flex flex-col">
+                    <div class="flex items-center gap-1">
+                      <span class="text-white font-medium text-sm">{googleReview.text}</span>
+                      <div class="flex text-amber-400">
+                        <Icon name="tabler:star-filled" class="w-3 h-3" />
+                        <Icon name="tabler:star-filled" class="w-3 h-3" />
+                        <Icon name="tabler:star-filled" class="w-3 h-3" />
+                        <Icon name="tabler:star-filled" class="w-3 h-3" />
+                        <Icon name="tabler:star-filled" class="w-3 h-3" />
+                      </div>
+                    </div>
+                    {googleReview.subText && <span class="text-slate-400 text-[10px]">{googleReview.subText}</span>}
+                  </div>
+                </a>
+              </div>
+            )
+          }
         </div>
 
         {/* Navigation Links - compact grid */}
@@ -162,6 +203,27 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
           </div>
         </div>
       </div>
+
+      {/* Trust Badges - New Section */}
+      {
+        trustBadges?.length ? (
+          <div class="border-t border-white/10 pt-8 mt-8">
+            <div class="flex flex-wrap justify-center items-center gap-8 md:gap-12 opacity-75 grayscale hover:grayscale-0 transition-all duration-500">
+              {trustBadges.map(({ icon, href, ariaLabel }) => (
+                <a
+                  href={href}
+                  aria-label={ariaLabel}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover:scale-110 transition-transform duration-300"
+                >
+                  <Icon name={icon} class="h-8 md:h-10 w-auto" />
+                </a>
+              ))}
+            </div>
+          </div>
+        ) : null
+      }
 
       {/* Bottom bar - compact */}
       <div class="mt-8 pt-5 border-t border-white/10">
