@@ -1,5 +1,7 @@
 @import "tailwindcss";
+@variant dark (&:where(.dark, .dark *));
 @plugin "@tailwindcss/typography";
+
 
 /* Manual scroll animation utilities - Tailwind v4 workaround */
 /* The IntersectionObserver JS removes [no-intersect] when visible */
